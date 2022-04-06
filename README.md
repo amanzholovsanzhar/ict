@@ -2,6 +2,6 @@
 My repository
 n = int(input())
 if  n %2==0:
-    print('yes')
+    print('yEs')
 else:
     print('no')
