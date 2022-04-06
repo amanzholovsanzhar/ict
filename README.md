@@ -2,6 +2,8 @@
 My repository
 n = int(input())
 if  n %2==0:
-    print('yEs')
+    print('ияяя')
+elıf n <12:
+    print('ЖОООООК')
 else:
-    print('nooooooo')
+    print('hjihghui')
